@@ -8,7 +8,7 @@
 <head>
 <meta charset="UTF-8" />
 
-<title>Đăng ký tài khoản</title>
+<title>Thanh toán hóa đơn</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
 <link rel="stylesheet" id="flatsome-ionfas fas-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" media="all" />
