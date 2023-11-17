@@ -562,7 +562,7 @@ if (isset($_POST['submit'])) {
         // Cập nhật thành công, cập nhật lại thông tin trong session
         $_SESSION['hoTen'] = $hoTenMoi;
         // Redirect đến trang tài khoản hoặc hiển thị thông báo thành công
-        header("Location: tai-khoan.php");
+        //header("Location: tai-khoan.php");
         exit();
     } else {
         // Xử lý lỗi khi cập nhật thông tin tài khoản không thành công
